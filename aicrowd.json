@@ -1,0 +1,11 @@
+{
+    "challenge_id": "music-demixing-track-mdx-23",
+    "authors": [
+      "kimberley_jensen"
+    ],
+    "labelnoise": false,
+    "bleeding": false,
+    "external_dataset_used": true,
+    "gpu": true,
+    "description": ""
+}

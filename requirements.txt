@@ -1,0 +1,8 @@
+numpy # Don't remove
+soundfile # Don't remove
+museval
+mir_eval
+torch>=1.8.1
+torchaudio>=0.8
+onnxruntime-gpu==1.8.1
+demucs==4.0.0

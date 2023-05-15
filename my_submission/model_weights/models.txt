@@ -1,0 +1,9 @@
+models that go here
+
+demucs_drums.ckpt
+demucs_bass.ckpt
+demucs_vocals.ckpt
+demucs_other.ckpt
+demucs_mmi.ckpt
+demucstracktwo.ckpt
+

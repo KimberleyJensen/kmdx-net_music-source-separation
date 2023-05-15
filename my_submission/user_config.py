@@ -1,0 +1,3 @@
+from my_submission.music_separation_model import MusicSeparationModel
+
+MySeparationModel = MusicSeparationModel
